@@ -1,0 +1,35 @@
+.qa-bg {
+  background: repeating-linear-gradient(
+    45deg,
+    transparent,
+    transparent 10px,
+    #ccc 10px,
+    #ccc 20px
+  ),
+  linear-gradient(
+    to bottom,
+    #eee,
+    #999
+  ) !important;
+}
+
+.qa-box {
+  -moz-transition: all 0.3s;
+  -webkit-transition: all 0.4s;
+  transition: all 0.4s;
+  position: absolute;
+  background-color: #FEFFCD;
+  border: 1px solid red;
+  left: 0;
+  top: 0;
+  z-index: 9999;
+  color: black;
+  padding: 0 8px 0 8px;
+  box-shadow: 4px 4px 5px #4a4747;
+}
+
+.qa-box:hover {
+  -moz-transform: scale(2);
+  -webkit-transform: scale(2);
+  transform: scale(2);
+}
