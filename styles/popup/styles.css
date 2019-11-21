@@ -2,7 +2,7 @@ html {
     color: #FFF;
     height: 400px;
     width: 500px;
-    background: radial-gradient(ellipse at bottom, #ff550e 0%, #ff550e 100%);
+    background: radial-gradient(ellipse at bottom, #181f2c 0%, #181f2c 100%);
     overflow: hidden;
 }
 
@@ -12,7 +12,7 @@ body {
     overflow: hidden;
 }
 .qa-btn {
-    box-shadow: inset 0 0 0 4px black;
+    box-shadow: inset 0 0 0 4px #FF4745;
     color: white;
     transition: color 0.25s 0.0833333333s;
     position: relative;
@@ -67,7 +67,7 @@ body {
     padding: 1em 3em;
     letter-spacing: 0.05rem;
     width: 150px;
-    color: black;
+    color: #ffffff;
     background-color: rgba(0, 0, 0, 0.1);
 }
 
@@ -145,8 +145,8 @@ body {
 .logo-paradigma {
     margin-right: 5px;
     position: fixed;
-    bottom: 10px;
-    right: 7px;
+    bottom: 25px;
+    right: 25px;
     width: 31%;
 }
 
@@ -172,7 +172,7 @@ body {
     left: 13px;
     font-size: 16px;
     font-family: 'Titillium Web', sans-serif;
-    color: black;
+    color: white;
 }
 
 .found {
