@@ -8,3 +8,6 @@ This extension can be downloaded at the following stores:
 
 [data-qa Highlighter - Add-ons for Firefox](https://addons.mozilla.org/firefox/addon/data-qa-highlighter/)
 
+# contact
+
+Alberto Vara | [LinkedIn](https://es.linkedin.com/in/varaalberto) | [Portfolio](https://albertovara.es)
