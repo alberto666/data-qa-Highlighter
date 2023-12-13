@@ -10,4 +10,4 @@ This extension can be downloaded at the following stores:
 
 # contact
 
-Alberto Vara | [LinkedIn](https://es.linkedin.com/in/varaalberto) | [Portfolio](https://albertovara.es)
+[Alberto Vara](https://albertovara.es) | [LinkedIn](https://es.linkedin.com/in/varaalberto)
